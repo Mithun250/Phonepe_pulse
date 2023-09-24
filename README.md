@@ -5,8 +5,8 @@ The PhonePe app is available in 11 Indian languages. Using PhonePe, users can se
 
 PhonePe is accepted as a payment option by over 3.5 crore offline and online merchant outlets, constituting 99% of pin codes in the country.
 
-Phonepe Pulse:
-
+**Phonepe Pulse:
+**
 PhonePe Pulse is a feature offered by the Indian digital payments platform called PhonePe.
 
 PhonePe Pulse provides users with insights and trends related to their digital transactions and usage patterns on the PhonePe app. It offers personalized analytics, including spending patterns, transaction history, and popular merchants among PhonePe users.
@@ -18,11 +18,11 @@ Data visualization refers to the graphical representation of data using charts, 
 
 These visualizations are designed to present information in a visually appealing and easily digestible format, enabling users to quickly grasp trends, patterns, and insights from their transaction history.
 
-Problem Statement:
-The Phonepe pulse Github repository contains a large amount of data related to various metrics and statistics.The goal is to extract this data and process it to obtain insights and information that can be visualized in a user-friendly manner.
+**Problem Statement:
+**The Phonepe pulse Github repository contains a large amount of data related to various metrics and statistics.The goal is to extract this data and process it to obtain insights and information that can be visualized in a user-friendly manner.
 
-Approach:
-1. Data extraction:
+**Approach:
+**1. Data extraction:
 Clone the Github using scripting to fetch the data from the Phonepe pulse Github repository and store it in a suitable format such as CSV or JSON.
 2. Data transformation:
 Use a scripting language such as Python, along with libraries such as Pandas, to manipulate and pre-process the data.
